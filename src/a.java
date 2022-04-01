@@ -14,6 +14,7 @@ public class a {
 
     public void a(){
 
+        //sadada1
         //用一个数组存放结果，数组的默认值为0
         int[] a = new int[35660];
         // n用于外层循环，每一次循环代表一个乘数，乘到10000即为n!
